@@ -78,21 +78,6 @@ The workflow demonstrates practical **data preprocessing**, **imbalanced classif
 
 ⚠️ Model predicts majority (non-default) cases well but struggles on minority class → highlights importance of **class imbalance handling**.
 
----
-
-## 📊 Sample Visualizations
-
-### Interest Rate vs Loan Default
-
-<img src="https://github.com/shghg/Lending-Club-Loan-Data-Analysis/assets/interest_rate_vs_default.png" width="500">  
-
-### FICO Score Distribution by Loan Status
-
-<img src="https://github.com/shghg/Lending-Club-Loan-Data-Analysis/assets/fico_distribution.png" width="500">  
-
-*(Replace with your saved plots from notebook or export them as `.png` and upload to repo → then adjust the image paths.)*
-
----
 
 ## 🔑 Key Insights
 
