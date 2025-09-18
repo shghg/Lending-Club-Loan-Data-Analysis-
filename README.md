@@ -1,7 +1,3 @@
-# Lending-Club-Loan-Data-Analysis-
-Perfect ✅ — here’s an upgraded **README.md** with **badges**, a **screenshot/graph section**, and a clean professional look. This version is recruiter-ready and visually appealing on GitHub.
-
----
 
 # 📊 Lending Club Loan Data Analysis
 
